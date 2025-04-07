@@ -1,0 +1,65 @@
+.about-container {
+    background-color: #ecfdf5;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+  
+  .about-box {
+    max-width: 800px;
+    background: white;
+    padding: 2.5rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    text-align: center;
+  }
+  
+  .about-logo {
+    width: 100px;
+    margin-bottom: 1rem;
+  }
+  
+  .about-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #047857;
+    margin-bottom: 1.5rem;
+  }
+  
+  .about-text {
+    font-size: 1rem;
+    color: #444;
+    margin-bottom: 2rem;
+    line-height: 1.7;
+    text-align: justify;
+  }
+  
+  .section-title {
+    font-size: 20px;
+    color: #065f46;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .features-section ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    margin-top: 1rem;
+  }
+  
+  .features-section li {
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+    color: #333;
+  }
+  
+  .closing-text {
+    margin-top: 2rem;
+    font-weight: bold;
+    color: #10b981;
+    font-size: 1.1rem;
+  }
+  
